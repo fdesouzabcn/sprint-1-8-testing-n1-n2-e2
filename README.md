@@ -10,7 +10,9 @@
 > For this exercise we are installing PHP Unit 11.5 with Composer.
 > <br>You find the "composer.json" in the main directory.
   1. Clone the repository: N/A (`example: git clone ...`)
-  2. Install dependencies: [PHP Unit 11.5 with Composer](https://docs.phpunit.de/en/11.5/installation.html#installing-phpunit-with-composer)
+  2. Install dependencies:
+      - Install [XAMPP](https://www.apachefriends.org/) or [PHP](https://www.php.net/downloads).
+      - Install [PHP Unit via Composer] (https://docs.phpunit.de/en/11.5/installation.html#installing-phpunit-with-composer)  
   3. Environment Variables: N/A (`example: Create ``.env`` with...`)
 
   ## 📸 Demo
