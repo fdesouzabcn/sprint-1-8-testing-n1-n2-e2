@@ -1,14 +1,17 @@
-# Project Name
-  **Description**: A brief explanation of the project's objective.
+# Practicing Testing
+  **Description**: In this practice (S1.08) we will have to practice some Testing (TDD , unit tests and data providers).
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
+  - Frontend: PHP
+  - Backend: PHP
 
   ## 🚀 Installation
-  1. Clone the repository: `git clone ...`
-  2. Install dependencies: `npm install`
-  3. Environment Variables: Create `.env` with...
+> [!NOTE]
+> For this exercise we are installing PHP Unit 11.5 with Composer.
+> <br>You find the "composer.json" in the main directory.
+  1. Clone the repository: N/A (`example: git clone ...`)
+  2. Install dependencies: [PHP Unit 11.5 with Composer](https://docs.phpunit.de/en/11.5/installation.html#installing-phpunit-with-composer)
+  3. Environment Variables: N/A (`example: Create ``.env`` with...`)
 
   ## 📸 Demo
-  [Link to Vercel/Netlify] or screenshots.
+ N/A (`example:  [Link to Vercel/Netlify] or screenshots.`)
